@@ -1,7 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
     output: 'export',
-    basePath: '/home',
+    basePath: '/home-old',
     // assetPrefix: '/home/',
 
     // Optional: Change links `/me` -> `/me/` and emit `/me.html` -> `/me/index.html`
